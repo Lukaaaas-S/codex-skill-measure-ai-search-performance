@@ -1,0 +1,4 @@
+interface:
+  display_name: "Measure AI Search Performance"
+  short_description: "Measure AI search visibility"
+  default_prompt: "Use $measure-ai-search-performance to design query sets, citation tracking, AI referral metrics, and review cadence."
